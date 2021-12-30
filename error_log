@@ -1,0 +1,3 @@
+[29-Dec-2021 16:15:23 Asia/Jakarta] PHP Warning:  Use of undefined constant submit - assumed 'submit' (this will throw an Error in a future version of PHP) in /home/dianglob/sekolah.dianglobaltech.co.id/app/exec/insert_siswa.php on line 10
+[30-Dec-2021 13:29:08 Asia/Jakarta] PHP Warning:  Use of undefined constant submit - assumed 'submit' (this will throw an Error in a future version of PHP) in /home/dianglob/sekolah.dianglobaltech.co.id/app/exec/insert_prosespenerimaansiswa.php on line 10
+[30-Dec-2021 13:29:28 Asia/Jakarta] PHP Warning:  Use of undefined constant submit - assumed 'submit' (this will throw an Error in a future version of PHP) in /home/dianglob/sekolah.dianglobaltech.co.id/app/exec/insert_registrasi.php on line 10
